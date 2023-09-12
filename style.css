@@ -1,0 +1,114 @@
+body{
+    background-color: #FAF1E4;
+    background-size: cover;
+    
+   
+}
+    
+
+#img1{
+    width: 100px;
+    height: 40px;
+}
+.carousel slide{
+    width: 20px;
+    height: 20px;
+    
+}
+
+.navbar navbar-expand-lg bg-body-tertiary{
+    background-color: #E9DAC1;
+}
+.in-hop{
+    width: 100px;
+    height: 40px;
+}
+.all{
+    width:100% ;
+    height:500px ;
+}
+h1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.rr{
+    display: flex;
+    align-items: baseline;
+    margin: 30px;
+    
+}
+.bb{
+    height: 160px;
+}
+.ww{
+ width: 100%;
+ height: 200px;
+ background-color: #CEDEBD;
+ border-radius: 7%;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+}
+h1{
+    color: #9EB384;
+}
+.gg{
+    margin: 10px;
+}
+.bak{
+    width: 400px;
+    height: 400px;
+    background-color: #9EB384;
+    display: flex;
+    border-radius: 7%;
+    flex: content;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex: content;
+    justify-content: center;
+    align-items: center;
+    margin: 400px;
+    padding: 20px;
+}
+.vv{
+    display: flex;
+    flex: content;
+    justify-content: center;
+    align-items: center;
+}
+.ll{
+width: 50%;
+height: 50%;
+background-color:#CEDEBD ;
+border: #FAF1E4;
+border-radius: 7px;
+display: flex;
+flex-wrap: wrap;
+flex: content;
+justify-content: center;
+align-items: center;
+display: flex;
+    padding: 50px;
+    margin: 250px;
+
+
+}
+.zz{
+    display: flex;
+    padding: 200px;
+
+}
+h5{
+    justify-content: end;
+    align-items: end;
+    display: flex;
+}
+h6{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+
+}
